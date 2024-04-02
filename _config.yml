@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "220224867@seu.edu.cn"}
+  - {title: Mail, icon: envelope, url: "mialto:220224867@seu.edu.cn"}
   - {title: Github, icon: github, url: "https://github.com/kaiming00"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/wang25921243"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
