@@ -24,7 +24,7 @@ $$m^{dw}=m^{k\phi(n)+1}=m (\mathrm{mod} \ n)$$.
 
 2. $m$ is not coprime with $n$, since $m< n$, $n=pq$, $p$ and $q$ are prime numbers and $p\ne q$, so $m$ must have one of $p$ or $q$ as a factor, and only one of them. Suppose $m=cp$ and $q$ does not divide $m$. By Fermat's little theorem
 $$m^{q-1} \equiv 1 (\mathrm{mod} \ q).$$
-Therefore.
+Therefore
 $$m^{k\phi(n)}\equiv m^{k(p-1)(q-1)}\equiv 1^{k(p-1)}=1 (\mathrm{mod} \ q).$$
 Thus, there exists an integer k such that
 $$m^{k\phi(n)+1}=hq+1,$$
