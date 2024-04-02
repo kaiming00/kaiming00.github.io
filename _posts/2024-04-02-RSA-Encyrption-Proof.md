@@ -6,6 +6,12 @@ categories: media
 ---
 ## RSA Algorithm
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+
+
+
 Select two large prime numbers $p$ and $q$ ($p\ne q$), and let $n=pq$, $\phi(n)=(p-1)(q-1)$. Select the positive integer $w$ such that $w$ is a coprime with $\phi(n)$.  Let $d$ be the modular inverse of $w$ modulo, namely $dw\equiv 1 (\mathrm{mod}\ \phi(n))$.
 
 - Encryption. $c=E(m)=m^w \mathrm{mod}\ n$,
