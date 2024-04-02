@@ -26,7 +26,7 @@ $$m^{dw}=m^{k\phi(n)+1}=m (\mathrm{mod} \ n)$$.
 $$m^{q-1} \equiv 1 (\mathrm{mod} \ q).$$
 Therefore
 $$m^{k\phi(n)}\equiv m^{k(p-1)(q-1)}\equiv 1^{k(p-1)}=1 (\mathrm{mod} \ q).$$
-Thus, there exists an integer k such that
+Thus, there exists an integer $h$ such that
 $$m^{k\phi(n)+1}=hq+1,$$
 Mutiply both side by $m$, and notice that $m=cp$,
 m^{k\phi(n)+1}=hcpq+m=hcn+m,
