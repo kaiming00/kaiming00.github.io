@@ -31,6 +31,6 @@ $$m^{k\phi(n)+1}=hq+1,$$
 Mutiply both side by $m$, and notice that $m=cp$,
 $$m^{k\phi(n)+1}=hcpq+m=hcn+m,$$
 It is proven that,
-$$m^{k\phi(n)+1}=m (\mathrm{mod}+1),$$
+$$m^{k\phi(n)+1}=m (\mathrm{mod}\ n),$$
 Namely,
 $$m^{dw}=m (\mathrm{mod} \ n).$$
