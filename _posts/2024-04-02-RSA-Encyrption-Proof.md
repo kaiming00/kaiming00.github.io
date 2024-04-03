@@ -28,8 +28,7 @@ $$m^{\phi(n)}\equiv 1(\mathrm{mod} \ n),$$
 
 Thus, we can obtain.
 
-
-$$m^{dw}=m^{k\phi(n)+1}=m (\mathrm{mod} \ n)$$.
+$$m^{dw}=m^{k\phi(n)+1}=m (\mathrm{mod} \ n).$$
 
 
 2. $$m$$ is not coprime with $$n$$, since $$m< n$$, $$n=pq$$, $$p$$ and $$q$$ are prime numbers and $$p\ne q$$, so $$m$$ must have one of $$p$$ or $$q$$ as a factor, and only one of them. Suppose $$m=cp$$ and $$q$$ does not divide $$m$$. By Fermat's little theorem
