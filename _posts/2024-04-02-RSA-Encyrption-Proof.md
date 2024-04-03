@@ -7,6 +7,8 @@ categories: media
 
 Intruduction to RSA encryption correctness proof. [source](https://github.com/kaiming00/kaiming00.github.io/blob/master/_data/font-awesome/RSAEncryptionProof.webp)
 
+
+
 ## RSA Algorithm
 
 Select two large prime numbers $$p$$ and $$q$$ ($$p\ne q$$), and let $$n=pq$$, $$\phi(n)=(p-1)(q-1)$$. Select the positive integer $$w$$ such that $$w$$ is a coprime with $$\phi(n)$$.  Let $$d$$ be the modular inverse of $$w$$ modulo, namely $$dw\equiv 1 (\mathrm{mod}\ \phi(n))$$.
