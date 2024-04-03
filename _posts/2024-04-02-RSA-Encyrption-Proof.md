@@ -22,7 +22,7 @@ Where the encryption key $$(w,n)$$ are public, and $$(p,q,\phi(n),d)$$ are priva
 
 The following proves that the decryption algorithm is correct, namely $$m=c^d \mathrm{mod}\ n$$. Since $$m<  n$$, we only need to prove that $$c^d \equiv m (\mathrm{mod} \ n)$$, that is $$m^{dw}=m(\mathrm{mod}\ n)$$. Since $$dw\equiv 1(\mathrm{mod}\  \phi(n))$$, there exists an integer $$k$$ such that $$dw=k\phi(n)+1$$. Two possibilities are dicuss below.
 
-1. $$m$$ is coprime with $$n$$. According to  Euler's theorem.
+2. $$m$$ is coprime with $$n$$. According to  Euler's theorem.
    
 $$m^{\phi(n)}\equiv 1(\mathrm{mod} \ n),$$
 
